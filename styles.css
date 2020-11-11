@@ -22,3 +22,16 @@ th{
 .boldify{
   font-weight: bold;
 }
+#bcgCol{
+  background-color: "#fcc2bd";
+}
+button{
+  width: 200px;
+  height: 50px;
+  font-size: 24px;
+  background-color: red;
+}
+
+button:hover{
+  background-color: yellow;
+}
